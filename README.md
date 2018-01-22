@@ -15,3 +15,7 @@ Admin : admin
 Password : azerty123
 
 La base de données est exporté sous le fichier worldinfo.sql à la racine du projet
+
+
+
+// Par faute de temps, je n'ai pas privilégié l'affichage "votre demande d'intervention n°# à été envoyé". Toutefois, l'insertion dans la base s'effectue correctement.
