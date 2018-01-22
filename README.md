@@ -18,4 +18,4 @@ La base de données est exporté sous le fichier dbworldinfo.sql à la racine du
 
 
 
-// Par faute de temps, je n'ai pas privilégié l'affichage "votre demande d'intervention n°# à été envoyé". Toutefois, l'insertion dans la base s'effectue correctement, j'ai également eu quelque soucis avec la date, je l'ai laissé de côté et ai mit la date actuel pour le moment.
+// J'ai eu quelque soucis avec la date, je l'ai laissé de côté et ai mit la date actuel pour le moment.
