@@ -19,3 +19,4 @@ La base de données est exporté sous le fichier dbworldinfo.sql à la racine du
 
 
 // J'ai eu quelque soucis avec la date, je l'ai laissé de côté et ai mit la date actuel pour le moment.
+// Par manque de temps je n'ai pas pu tout commenter, en temps habituel je commente les fonctions qui sont difficiles
