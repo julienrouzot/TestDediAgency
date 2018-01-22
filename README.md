@@ -14,7 +14,7 @@ Admin : admin
 
 Password : azerty123
 
-La base de données est exporté sous le fichier worldinfo.sql à la racine du projet
+La base de données est exporté sous le fichier dbworldinfo.sql à la racine du projet
 
 
 
